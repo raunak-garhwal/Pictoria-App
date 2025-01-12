@@ -14,7 +14,6 @@ export class Service{
         this.bucket = new Storage(this.client)
     }
 
-
     // post related services
 
     async createPost({title, slug, content, featuredImage, status, userId}) {
