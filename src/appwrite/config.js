@@ -93,7 +93,6 @@ export class Service{
         }
     }
 
-
     // file upload services
 
     async uploadFile(file) {
