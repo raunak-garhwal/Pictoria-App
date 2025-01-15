@@ -1,4 +1,4 @@
-import React,{ useState } from 'react'
+import React, { useState } from 'react'
 import authService from '../appwrite/auth'
 import { Link, useNavigate } from 'react-router-dom'
 import { Button, Input, Logo, Select } from './index'
@@ -25,7 +25,6 @@ function Signup() {
             setError(error.message)
         }
     }
-
 
   return (
     <div className="flex items-center justify-center">
