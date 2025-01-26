@@ -8,13 +8,13 @@ function Footer() {
       <div className="relative z-10 mx-auto max-w-7xl px-4">
           <div className="-m-6 flex flex-wrap">
               <div className="w-full p-6 md:w-1/2 lg:w-6/12">
-                  <div className="flex h-full flex-col justify-between">
+                  <div className="flex h-full gap-2 flex-col justify-between">
                       <div className="mb-4 inline-flex justify-center items-center">
                           <Logo width="180px"/>
                       </div>
                       <div>
                           <p className="text-sm text-gray-100">
-                              &copy; Copyright 2024 | All Rights Reserved by Pictoria.
+                              &copy; Copyright 2025 | All Rights Reserved by Pictoria.
                           </p>
                       </div>
                   </div>
