@@ -5,7 +5,7 @@ function Logo({width}) {
     <div>
       <img
       className='h-18 w-24'
-      src="src/components/Logo/favicon.png"
+      src="favicon.png"
       alt="logo"
       style={{width: width}}
       />
